@@ -6,6 +6,6 @@
   "entryPoint": "SpotifyMetadataProviderPlugin",
   "apis": ["webview", "localstorage", "timezone"],
   "abilities": ["authentication", "metadata"],
-  "repository": "https://github.com/sonic-liberation/spotube-plugin-spotify",
+  "repository": "https://github.com/alkvdy/spotube-plugin-spotify",
   "pluginApiVersion": "2.0.0"
 }
